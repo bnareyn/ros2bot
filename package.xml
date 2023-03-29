@@ -3,7 +3,7 @@
 <package format="3">
   <name>ros2bot</name>
   <version>0.1.0</version>
-  <description>Ros2 Bot from Articulated Robotics tutorial</description>
+  <description>Ros 2 Bot from Articulated Robotics tutorial</description>
   <maintainer email="my_email@email.com">MY NAME</maintainer>
   <license>TODO: License declaration</license>
 
